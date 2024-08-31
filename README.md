@@ -19,4 +19,3 @@ Este repositório contém o projeto "Apresentação Sistemas.br" e "Banco de Dad
 Aqui está uma imagem do projeto em execução:
 
 ![sistemasbr1](https://i.postimg.cc/DJcrP9kc/sistemasbr1.png)
-![sistemasbr1](https://i.postimg.cc/WDL0LNsn/sistemasbr2.png)
