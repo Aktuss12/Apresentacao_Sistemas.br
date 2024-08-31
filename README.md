@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4a6a889f-388b-428c-87c7-a88d7adfef28)# Apresentação Sistemas.br
+# Apresentação Sistemas.br
 
 Este repositório contém o projeto "Apresentação Sistemas.br" e "Banco de Dados Sistemas.br"
 
