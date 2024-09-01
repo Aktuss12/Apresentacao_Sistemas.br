@@ -4,10 +4,8 @@ Este repositório contém o projeto "Apresentação Sistemas.br"
 
 ## Funcionalidades
 
-- **Apresentação Interativa**: Demonstração de sistemas e banco de dados com uma interface intuitiva e responsiva
+- **Apresentação Interativa**: Demonstração de sistemas e banco de dados com uma interface intuitiva e responsiva que leva para cada parte desejada do site Sistemas.br
 - **Design Moderno**: Layout atraente que facilita a navegação e a compreensão dos conteúdos
-- **Integração de Dados**: Mostra como os sistemas interagem com dados reais
-- **Suporte a Múltiplas Plataformas**: A aplicação é compatível com dispositivos móveis e desktops
 
 ## Tecnologias Utilizadas
 
