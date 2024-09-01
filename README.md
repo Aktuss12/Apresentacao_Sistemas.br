@@ -78,7 +78,7 @@ O banco de dados é composto por três tabelas principais:
    ('Crédito', '2024-06-21', 109.99),
    ('Débito', '2024-07-05', 619.89),
    ('Pix', '2023-01-11', 14.00),
-   ('Dinheiro', '2024-08-31', 50.00)
+   ('Débito', '2024-08-31', 50.00)
 
 3. **Vendas**
    - Relaciona os clientes com as transações realizadas.
@@ -107,5 +107,5 @@ O banco de dados é composto por três tabelas principais:
 Aqui está uma imagem do projeto em execução:
 
 ![sistemasbr2](https://i.postimg.cc/650ssWkS/image.png)
-![sistemasbr3](https://i.postimg.cc/PqNnzgF7/image.png)
+![sistemasbr3](https://i.postimg.cc/NGCJRywQ/image.png)
 ![sistemasbr4](https://i.postimg.cc/bvYwXVV0/image.png)
