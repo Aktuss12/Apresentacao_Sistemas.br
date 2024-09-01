@@ -57,6 +57,7 @@ O banco de dados é composto por três tabelas principais:
     metodo VARCHAR(20),
     data_transacao DATE,
     valor DECIMAL(10, 2)
+   );
 
 2. **Transações**
    - Registra as transações realizadas, com detalhes sobre o método de pagamento, data e valor.
@@ -80,9 +81,9 @@ O banco de dados é composto por três tabelas principais:
    ('Crédito', '2024-06-21', 109.99),
    ('Débito', '2024-07-05', 619.89),
    ('Pix', '2023-01-11', 14.00),
-   ('Dinheiro', '2024-08-31', 50.00);
+   ('Dinheiro', '2024-08-31', 50.00)
 
-   1. **Vendas**
+3. **Vendas**
    - Relaciona os clientes com as transações realizadas.
    - **Campos**:
      - `id_vendas` 
