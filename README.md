@@ -24,7 +24,7 @@ Aqui está uma imagem do projeto em execução:
 
 ### Visão Geral
 
-O projeto "Banco de Dados Sistemas.br" demonstra a estrutura e a funcionalidade de um banco de dados relacional, simulando a operação de uma maquininha de cartão de crédito. A implementação abrange o gerenciamento de clientes, transações e vendas, ilustrando como esses componentes interagem com os dados.
+O projeto "Banco de Dados Sistemas.br" demonstra a estrutura e a funcionalidade de um banco de dados relacional, simulando a operação de uma maquininha de vendas. A implementação abrange o gerenciamento de clientes, transações e vendas, ilustrando como esses componentes interagem com os dados.
 
 ### Estrutura do Banco de Dados
 
