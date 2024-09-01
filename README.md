@@ -12,10 +12,14 @@ Este repositório contém o projeto "Apresentação Sistemas.br" e "Banco de Dad
 ## Tecnologias Utilizadas
 
 - **Linguagem**: [Python/SQL]
-- **Ferramentas de Desenvolvimento**: [VSCode/Astah]
+- **Ferramentas de Desenvolvimento**: [VSCode]
 
 - ## Captura de Tela
 
 Aqui está uma imagem do projeto em execução:
 
 ![sistemasbr1](https://i.postimg.cc/QdFKk78k/image.png)
+![sistemasbr2](https://i.postimg.cc/zGKJRZ6F/image.png)
+![sistemasbr3](https://i.postimg.cc/8cxSjtbY/image.png)
+![sistemasbr4](https://i.postimg.cc/fW1y3KkZ/image.png)
+![sistemasbr5](https://i.postimg.cc/bvYwXVV0/image.png)
